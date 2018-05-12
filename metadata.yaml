@@ -1,0 +1,34 @@
+_repo: Evelyn-Innes_13201
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Moore, George Augustus
+    aliases:
+    - Moore, George Augustus
+    - Rhone, Lady
+    birthdate: 1852
+    deathdate: 1933
+    gutenberg_agent_id: '1366'
+    url: http://www.gutenberg.org/2009/agents/1366
+    wikipedia: http://en.wikipedia.org/wiki/George_Moore_(novelist)
+description: Evelyn Innes tells the story of an opera singer raised in a devoutly
+  Catholic family who is seduced by two men a wealthy baronet who makes her famous,
+  and later, an Irish composer (a thinly disguised version of William Butler Yeats).
+  A priest tries to convince Evelyn, tired of life as a mistress, to renounce her
+  career as an opera singer in favor of the religious life.
+gutenberg_issued: '2004-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13201'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Religious fiction'
+title: Evelyn Innes
+url: http://www.gutenberg.org/ebooks/13201
